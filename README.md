@@ -159,15 +159,10 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+--
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Professional Contact
+## Contact
 
 **Shoyeb Rampure**  
 
@@ -176,11 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: [shoyebrampure@gmail.com](mailto:shoyebrampure@gmail.com)
 
 ---
-
-## 🙏 Acknowledgments
-
-Special thanks to the open-source community and educational institutions that inspire the continuous development of accessible learning tools in computer science education.
-
 ---
 
 ### 🚀 Transform Your Understanding of Data Structures and Algorithms Today!
