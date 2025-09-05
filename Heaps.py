@@ -35,7 +35,7 @@ class MinHeap:
         self._bubble_up(len(self.heap) - 1)
 
     def extract_min(self):
-        """Remove and return the minimum element from the min-heap."""
+        """Remove and return the minimum element from the min-heap.."""
         if self.is_empty():
             raise IndexError("Cannot extract from an empty heap")
         if len(self.heap) == 1:
@@ -804,6 +804,7 @@ class Visual_Max_Heap:
         self.draw(screen)
         pygame.display.update()
         return None
+
 
 
 
