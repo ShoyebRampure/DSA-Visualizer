@@ -59,7 +59,7 @@ class Queue_Array_Based:
         self.Rear = (self.Rear + 1) % self.array.size
         self.array.current_Count += 1
     def _blit_message(self, screen, msg, color, y=520):
-        # reuse the same pattern you used in BST
+        # reuse the same pattern you used in BST.
         text = FONT_S1.render(msg, True, color)
         pad = 10
         r = text.get_rect()
@@ -212,6 +212,7 @@ class Queue_LinkedList_Based(LinkedList):
     def Clear(self):
         self.nodes = []
         self.values = []        
+
 
 
 
