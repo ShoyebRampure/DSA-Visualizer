@@ -175,4 +175,4 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 
 ### 🚀 Transform Your Understanding of Data Structures and Algorithms Today!
 
-*DSA Visualizer - Making Computer Science Concepts Accessible Through Interactive Learning*
+*DSA Visualizer - Making Computer Science Concepts Accessible Through Interactive Learning efficiently*
